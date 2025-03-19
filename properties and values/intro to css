@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Properties and values</title>
+    <style>
+        body{
+            background-color: aquamarine;
+        }
+        #test1{
+            color:rgb(27, 14, 83);
+            font-weight: 800;
+            font-size:75px;
+        }
+        .test2{
+            background-color: black;
+            color:bisque;
+            font-size: 50px;
+        }
+        h4{
+           font-size:60px;
+           font-style:italic;
+           color:rgb(11, 82, 80) 
+        }
+    </style>
+</head>
+<body>
+   <center> <h2 id="test1"> Example 1</h2>
+    <h3 class="test2">Example 2</h3>
+    <h4>Example 3</h4>
+    </center>
+</body>
+</html>
