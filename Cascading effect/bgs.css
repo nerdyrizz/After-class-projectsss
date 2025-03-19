@@ -1,0 +1,12 @@
+body{
+   background-image: url(bg.jpg);
+}
+h2{
+    color:rgb(62, 49, 47);
+    text-align: center;
+    font-size: 30px;
+     font-family:'Courier New', Courier, monospace ;
+}
+p::first-letter{
+    font-size: 25px;
+}

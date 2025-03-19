@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head> <link href="bgs.css" rel="stylesheet" type="text/css"/>
+        <title>
+            Cascading effects
+        </title>
+    </head>
+    <body>
+        <h2> Fun facts</h2>
+        <p>Did you know that honey never spoils? Archaeologists have discovered pots of honey in ancient Egyptian tombs that are
+            over 3,000 years old and still perfectly edible! This is because honey has natural preservatives that prevent
+            bacteria from growing, making it one of the most durable foods on Earth.</p>
+            
+        <p> Another amazing fact is that octopuses have three hearts!  Two pump blood to the gills, while the third pumps it to the rest of the body. What's even more fascinating is that their blood is blue due to a copper-based molecule called
+            hemocyanin, which helps them survive in low-oxygen environments.</p>
+    
+
+    </body>
+</html>
